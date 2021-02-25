@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.15)  25 FEB 2021 08:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.1.15)  25 FEB 2021 08:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1587,7 +1587,7 @@ File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 \openout2 = `formalia/forside.aux'.
 
  (/Users/Hammer/Documents/Studie/AAU Ingeniør /AAU/4. Semester/BIE2/LaTex/BIE2-Emil-/formalia/forside.tex
-<billeder/forside.png, id=23, 141.1674pt x 83.3514pt>
+<billeder/forside.png, id=19, 141.1674pt x 83.3514pt>
 File: billeder/forside.png Graphic file (type png)
 <use billeder/forside.png>
 Package pdftex.def Info: billeder/forside.png  used on input line 19.
@@ -1619,21 +1619,21 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 94.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 94.
 Package rerunfilecheck Info: File `Rapport.out' has not changed.
-(rerunfilecheck)             Checksum: 09AF7823FD369AADFBF05DB2CBF9254E;240.
+(rerunfilecheck)             Checksum: B53FEB111D04E30FB14862999C9AFFE8;178.
  ) 
 Here is how much of TeX's memory you used:
- 41901 strings out of 480608
- 939364 string characters out of 5903630
+ 41899 strings out of 480608
+ 939340 string characters out of 5903630
  1570010 words of memory out of 5000000
- 57003 multiletter control sequences out of 15000+600000
+ 57002 multiletter control sequences out of 15000+600000
  589042 words of font info for 68 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  66i,12n,100p,948b,745s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmbxo10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmcsc10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmmi8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmro17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/lm/lmsy8.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/bookman/ubkd8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/bookman/ubkl8a.pfb>
-Output written on "/Users/Hammer/Documents/Studie/AAU Ingeniør /AAU/4. Semester/BIE2/LaTex/BIE2-Emil-/Rapport.pdf" (3 pages, 205716 bytes).
+Output written on "/Users/Hammer/Documents/Studie/AAU Ingeniør /AAU/4. Semester/BIE2/LaTex/BIE2-Emil-/Rapport.pdf" (3 pages, 204639 bytes).
 PDF statistics:
- 115 PDF objects out of 1000 (max. 8388607)
- 93 compressed objects within 1 object stream
- 10 named destinations out of 1000 (max. 500000)
- 50 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 110 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
+ 9 named destinations out of 1000 (max. 500000)
+ 42 words of extra memory for PDF output out of 10000 (max. 10000000)
 
